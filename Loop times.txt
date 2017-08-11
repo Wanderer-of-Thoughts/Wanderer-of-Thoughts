@@ -3,6 +3,6 @@ Thought loop at 00:50 (50.000).
 Suspense loop at 01:02.600 (62.600).
 Allegro loop at 00:44 (44.000).
 Moderato loop at 01:38 (98.000).
-Logic&Trick loop at 01:30 ().
+Logic&Trick loop at 01:31~ (?).
 http://<username>.github.io/<filename>.<filetype>
 No-loop tracks: Confess, Epic, Objection, Pursuit, Trial, Suspense, Victory.
