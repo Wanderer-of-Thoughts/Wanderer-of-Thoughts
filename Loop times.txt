@@ -4,3 +4,4 @@
 <p>Allegro loop at 00:44.</p>
 <p>Moderato loop at 01:38.</p>
 <p>Logic&Trick loop at 01:30.</p>
+URL: http://<username>.github.io/<filename>.<filetype>
